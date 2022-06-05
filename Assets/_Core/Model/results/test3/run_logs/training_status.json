@@ -1,0 +1,65 @@
+{
+    "Vacuum": {
+        "checkpoints": [
+            {
+                "steps": 499966,
+                "file_path": "results\\test3\\Vacuum\\Vacuum-499966.onnx",
+                "reward": 4.024390243902439,
+                "creation_time": 1654413100.187336,
+                "auxillary_file_paths": [
+                    "results\\test3\\Vacuum\\Vacuum-499966.pt"
+                ]
+            },
+            {
+                "steps": 999977,
+                "file_path": "results\\test3\\Vacuum\\Vacuum-999977.onnx",
+                "reward": 6.153846153846154,
+                "creation_time": 1654413420.148065,
+                "auxillary_file_paths": [
+                    "results\\test3\\Vacuum\\Vacuum-999977.pt"
+                ]
+            },
+            {
+                "steps": 1499978,
+                "file_path": "results\\test3\\Vacuum\\Vacuum-1499978.onnx",
+                "reward": 7.159090909090909,
+                "creation_time": 1654413740.8925595,
+                "auxillary_file_paths": [
+                    "results\\test3\\Vacuum\\Vacuum-1499978.pt"
+                ]
+            },
+            {
+                "steps": 1999966,
+                "file_path": "results\\test3\\Vacuum\\Vacuum-1999966.onnx",
+                "reward": 8.297872340425531,
+                "creation_time": 1654414068.703205,
+                "auxillary_file_paths": [
+                    "results\\test3\\Vacuum\\Vacuum-1999966.pt"
+                ]
+            },
+            {
+                "steps": 2000065,
+                "file_path": "results\\test3\\Vacuum\\Vacuum-2000065.onnx",
+                "reward": 8.2,
+                "creation_time": 1654414068.8272035,
+                "auxillary_file_paths": [
+                    "results\\test3\\Vacuum\\Vacuum-2000065.pt"
+                ]
+            }
+        ],
+        "final_checkpoint": {
+            "steps": 2000065,
+            "file_path": "results\\test3\\Vacuum.onnx",
+            "reward": 8.2,
+            "creation_time": 1654414068.8272035,
+            "auxillary_file_paths": [
+                "results\\test3\\Vacuum\\Vacuum-2000065.pt"
+            ]
+        }
+    },
+    "metadata": {
+        "stats_format_version": "0.3.0",
+        "mlagents_version": "0.29.0",
+        "torch_version": "1.11.0+cu113"
+    }
+}
